@@ -43,16 +43,3 @@ input.onGesture(Gesture.Shake, function () {
     basic.pause(1000)
     basic.showIcon(IconNames.Sad)
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
